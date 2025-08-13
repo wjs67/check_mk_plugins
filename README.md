@@ -1,0 +1,1 @@
+- Migrating old plugins to Checkmk 2.4.x
