@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# Author: wellingtonsilva67@gmail.com
-# Version: 1.0 - 20250317 16:14
+# Original source files: ~/share/doc/check_mk/treasures/modbus
+# 2025-03-17: Migrated to CMK v2.4 - API agent_based.v2, by swj67[at]protonmail[dot]com
 # -----------------------------------
 
 import time

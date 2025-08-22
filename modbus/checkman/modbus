@@ -8,6 +8,7 @@ description:
  can be used to query information. To get that information, you will find agent_modbus in
  the agent/special directory. This Check currently can handle gauge and counter data.
  If you set no levels, only a pnp graph will be created and the check anytimes shows {OK}.
+ Original source files: ~/share/doc/check_mk/treasures/modbus .
 
 inventory:
  One service will be created for each value

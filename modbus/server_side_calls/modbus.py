@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-# Author: wellingtonsilva67@gmail.com
-# Version: 1.0 - 20250317 16:14
+# Original source files: ~/share/doc/check_mk/treasures/modbus
+# 2025-03-17: Migrated to CMK v2.4 - API server_side_calls.v1, by swj67[at]protonmail[dot]com
+# -----------------------------------
 
 from typing import Iterator
 from pydantic import BaseModel
