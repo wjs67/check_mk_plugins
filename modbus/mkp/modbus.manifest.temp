@@ -6,6 +6,7 @@
 'download_url': 'https://github.com/wjs67/check_mk_plugins',
 'files': {'cmk_addons_plugins': ['modbus/agent_based/modbus.py',
                                  'modbus/rulesets/modbus.py',
+                                 'modbus/server_side_calls/modbus.py',
                                  'modbus/checkman/modbus',
                                  'modbus/libexec/agent_modbus']},
 'name': 'modbus',
